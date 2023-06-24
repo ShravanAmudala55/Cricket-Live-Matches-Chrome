@@ -1,6 +1,6 @@
 # Cricket-Live-Score-Chrome
 
-Demo [here](https://main--meek-sawine-32f736.netlify.app/)
+Demo [here](https://thunderous-parfait-4b0a69.netlify.app/)
 
 Wanna try this extension!!!!! Then!!!
 ### Installation Instructions
