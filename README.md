@@ -5,4 +5,4 @@
 1. Unzip the file and you should have a folder named `Cricket-Live-Score-Chrome`.
 1. In Chrome/Edge go to the extensions page (`chrome://extensions` or `edge://extensions`).
 1. Enable Developer Mode.
-1. Drag the `bypass-paywalls-chrome-master` folder anywhere on the page to import it (do not delete the folder afterwards).
+1. Drag the `Cricket-Live-Score-Chrome` folder anywhere on the page to import it (do not delete the folder afterwards).
