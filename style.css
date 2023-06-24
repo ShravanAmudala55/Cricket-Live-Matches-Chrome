@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@700&display=swap");
+body {
+  color: rgb(255, 255, 255);
+  font-family: "Ubuntu", sans-serif;
+  background-color: black;
+}
+
+.container {
+  position: relative;
+  overflow: hidden;
+}
+
+ul {
+  position: absolute;
+  top: 25px;
+  z-index: 1;
+  font-size: 20px;
+}
+
+img {
+  width: 98vw;
+  top: 0;
+  opacity: 0.5;
+  z-index: 0;
+}
+
+.img2 {
+  position: absolute;
+  width: 60px;
+  margin-left: 20px;
+  background-color: rgb(255, 255, 255);
+  opacity: 1;
+}
