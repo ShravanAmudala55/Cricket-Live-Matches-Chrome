@@ -1,4 +1,4 @@
-# Cricket-Live-Score-Chrome
+# Cricket-Live-Matches-Chrome
 
 Demo [here](https://thunderous-parfait-4b0a69.netlify.app/)
 
